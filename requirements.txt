@@ -1,0 +1,9 @@
+opencv-python
+tensorflow
+logging
+requests
+tqdm
+scikit_learn
+ultralytics
+streamlit
+plotly
